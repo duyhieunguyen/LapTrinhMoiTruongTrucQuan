@@ -1,0 +1,6 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client\Client\bin\Debug\Client.exe.config
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client\Client\bin\Debug\Client.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client\Client\bin\Debug\Client.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client\Client\obj\Debug\Client.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client\Client\obj\Debug\Client.pdb

@@ -1,0 +1,12 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Slide_Bai_Tap\Slide_Bai_Tap\bin\Debug\Slide_Bai_Tap.exe.config
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Slide_Bai_Tap\Slide_Bai_Tap\bin\Debug\Slide_Bai_Tap.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Slide_Bai_Tap\Slide_Bai_Tap\bin\Debug\Slide_Bai_Tap.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Slide_Bai_Tap\Slide_Bai_Tap\obj\Debug\Slide_Bai_Tap.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Slide_Bai_Tap\Slide_Bai_Tap\obj\Debug\Slide_Bai_Tap.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Slide_Bai_Tap\Slide_Bai_Tap\obj\Debug\Slide_Bai_Tap.pdb
+C:\Users\duyhi\Desktop\123\Buoi2\Slide_Bai_Tap\Slide_Bai_Tap\bin\Debug\Slide_Bai_Tap.exe.config
+C:\Users\duyhi\Desktop\123\Buoi2\Slide_Bai_Tap\Slide_Bai_Tap\bin\Debug\Slide_Bai_Tap.exe
+C:\Users\duyhi\Desktop\123\Buoi2\Slide_Bai_Tap\Slide_Bai_Tap\bin\Debug\Slide_Bai_Tap.pdb
+C:\Users\duyhi\Desktop\123\Buoi2\Slide_Bai_Tap\Slide_Bai_Tap\obj\Debug\Slide_Bai_Tap.csprojAssemblyReference.cache
+C:\Users\duyhi\Desktop\123\Buoi2\Slide_Bai_Tap\Slide_Bai_Tap\obj\Debug\Slide_Bai_Tap.exe
+C:\Users\duyhi\Desktop\123\Buoi2\Slide_Bai_Tap\Slide_Bai_Tap\obj\Debug\Slide_Bai_Tap.pdb

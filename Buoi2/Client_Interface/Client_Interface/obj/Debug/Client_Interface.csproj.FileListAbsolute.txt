@@ -1,0 +1,12 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client_Interface\Client_Interface\bin\Debug\Client_Interface.exe.config
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client_Interface\Client_Interface\bin\Debug\Client_Interface.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client_Interface\Client_Interface\bin\Debug\Client_Interface.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client_Interface\Client_Interface\obj\Debug\Client_Interface.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client_Interface\Client_Interface\obj\Debug\Client_Interface.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_2\Buoi_2\Client_Interface\Client_Interface\obj\Debug\Client_Interface.pdb
+C:\Users\duyhi\Desktop\123\Buoi2\Client_Interface\Client_Interface\bin\Debug\Client_Interface.exe.config
+C:\Users\duyhi\Desktop\123\Buoi2\Client_Interface\Client_Interface\bin\Debug\Client_Interface.exe
+C:\Users\duyhi\Desktop\123\Buoi2\Client_Interface\Client_Interface\bin\Debug\Client_Interface.pdb
+C:\Users\duyhi\Desktop\123\Buoi2\Client_Interface\Client_Interface\obj\Debug\Client_Interface.csprojAssemblyReference.cache
+C:\Users\duyhi\Desktop\123\Buoi2\Client_Interface\Client_Interface\obj\Debug\Client_Interface.exe
+C:\Users\duyhi\Desktop\123\Buoi2\Client_Interface\Client_Interface\obj\Debug\Client_Interface.pdb
