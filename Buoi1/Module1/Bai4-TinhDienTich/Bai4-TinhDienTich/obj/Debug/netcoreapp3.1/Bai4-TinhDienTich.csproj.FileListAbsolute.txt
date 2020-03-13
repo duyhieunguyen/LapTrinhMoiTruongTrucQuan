@@ -1,0 +1,10 @@
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\bin\Debug\netcoreapp3.1\Bai4-TinhDienTich.exe
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\bin\Debug\netcoreapp3.1\Bai4-TinhDienTich.deps.json
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\bin\Debug\netcoreapp3.1\Bai4-TinhDienTich.runtimeconfig.json
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\bin\Debug\netcoreapp3.1\Bai4-TinhDienTich.runtimeconfig.dev.json
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\bin\Debug\netcoreapp3.1\Bai4-TinhDienTich.dll
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\bin\Debug\netcoreapp3.1\Bai4-TinhDienTich.pdb
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\obj\Debug\netcoreapp3.1\Bai4-TinhDienTich.AssemblyInfoInputs.cache
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\obj\Debug\netcoreapp3.1\Bai4-TinhDienTich.AssemblyInfo.cs
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\obj\Debug\netcoreapp3.1\Bai4-TinhDienTich.dll
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai4-TinhDienTich\Bai4-TinhDienTich\obj\Debug\netcoreapp3.1\Bai4-TinhDienTich.pdb

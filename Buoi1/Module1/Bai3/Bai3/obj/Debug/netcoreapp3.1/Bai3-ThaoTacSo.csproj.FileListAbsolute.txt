@@ -1,0 +1,11 @@
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3-ThaoTacSo.exe
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3-ThaoTacSo.deps.json
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3-ThaoTacSo.runtimeconfig.json
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3-ThaoTacSo.runtimeconfig.dev.json
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3-ThaoTacSo.dll
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3-ThaoTacSo.pdb
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3-ThaoTacSo.csprojAssemblyReference.cache
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3-ThaoTacSo.AssemblyInfoInputs.cache
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3-ThaoTacSo.AssemblyInfo.cs
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3-ThaoTacSo.dll
+C:\Users\duyhi\Desktop\TrucQuang\Buoi1\Module1\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3-ThaoTacSo.pdb
